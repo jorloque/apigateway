@@ -1,0 +1,8 @@
+{
+  "requestContext": {
+    "connectionId": "G842NfY4IAMCIXg=",
+    "domainName": "yrv9eg57pb.execute-api.us-east-1.amazonaws.com",
+    "stage": "production"
+  },
+  "body": "{\"message\": \"Hola, este es un mensaje de prueba!\"}"
+}
